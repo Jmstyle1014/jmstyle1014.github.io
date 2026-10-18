@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jmstyle.panyard.twa",
+    "sha256_cert_fingerprints": ["85:10:0F:45:D7:46:84:A5:63:8E:16:21:64:84:7D:80:87:E9:5D:04:00:22:D0:51:59:3D:A1:93:B5:51:9A:E5"]
+  }
+}]
